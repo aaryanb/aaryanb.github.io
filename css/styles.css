@@ -1,7 +1,3 @@
-p.follow {
-    color:aliceblue;
-}
-
 div.header {
     color: rgb(255, 255, 255);
     background: rgb(243, 81, 81);
@@ -19,7 +15,11 @@ span#lol {
 }
 
 a {
-    color:brown;
+    color:yellow;
+}
+
+p.follow {
+    color:aliceblue;
 }
 
 @media only screen and (max-width: 600px) {
