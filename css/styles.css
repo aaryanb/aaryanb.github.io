@@ -1,3 +1,21 @@
 p.follow {
     color:aliceblue
 }
+
+div {
+    color: rgb(120, 15, 62);
+    background: rgb(15, 28, 28);
+    display: inline-block;
+    width: 35%
+    hover
+}
+
+div:hover{
+    color:red
+}
+
+span {
+
+    color:violet
+
+}
