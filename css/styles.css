@@ -9,7 +9,7 @@ div.header {
     width: 15%;
 }
 
-div.header:hover{
+a:hover{
     color:greenyellow;
 }
 
