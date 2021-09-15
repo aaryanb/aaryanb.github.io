@@ -21,3 +21,9 @@ span#lol {
 a {
     color:brown;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
